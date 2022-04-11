@@ -1,0 +1,67 @@
+* {
+    overflow-x: hidden;
+}
+
+#First {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+
+form input {
+    padding: 0.75rem 3rem 0.75rem 20px;
+    border-radius: 10px;
+    outline: none;
+}
+
+.button-myself {
+    padding: 0.75rem 1rem;
+    border-radius: 10px;
+    margin-left: 1rem;
+    opacity: 0.75;
+}
+
+.main {
+    padding: 15rem;
+    font-weight: bold;
+    left: 50;
+    top: 50;
+    transform: translate(-50 -50);
+}
+
+form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#Second {
+    padding: 5rem 0;
+    background-color: whitesmoke;
+}
+
+
+.right {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg);
+    background-size: cover;
+    overflow: hidden;
+    min-height: 30rem;
+}
+
+.left1 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg);
+    background-size: cover;
+    overflow: hidden;
+    min-height: 30rem;
+}
+
+.right3 {
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg);
+    background-size: cover;
+    overflow: hidden;
+    min-height: 30rem;
+}
+
+#Six {
+    background-color: whitesmoke;
+}
